@@ -1,7 +1,7 @@
 # https://pypi.org/project/Flask
 Flask==2.2.3
 
-# https://pypi.org/project/Flask-RESTful/
+# https://pypi.org/project/Flask-RESTful
 Flask-RESTful==0.3.9
 
 # https://pypi.org/project/gunicorn
