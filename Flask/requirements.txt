@@ -5,7 +5,7 @@ Flask==2.2.3
 Flask-RESTful==0.3.9
 
 # https://pypi.org/project/Flask-SQLAlchemy
-SQLAlchemy==3.0.3
+Flask-SQLAlchemy==3.0.3
 
 # https://pypi.org/project/gunicorn
 gunicorn==20.1.0
