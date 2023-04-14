@@ -1,4 +1,4 @@
-from website import create_app
+from website.__init__ import create_app
 from flask import Flask, request
 from flask_restful import Api, Resource
 from website.frontend import bp
